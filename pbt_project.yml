@@ -1,0 +1,50 @@
+name: marcel.hoeger
+description: systematic
+version: 0.0.1
+author: 5o845fwa.augubwxg@4ptdvbbq.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: marcelhoeger
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 21:05:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 21:05:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T21:05:03.939139Z'
+  name: plibMaven
+  version: 8.12.0-SNAPSHOT
+  id: '1582345139'
+  createdAt: '2025-07-04T21:05:03.939139Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
